@@ -3,8 +3,6 @@ Web Client is a program that opens your .html project in your browser
 
 A simple program on C++ for working with website development
 
-> For someone it may be an analogue of a Live-Server without having a VS Code
-
 ## Example
 []()
 
