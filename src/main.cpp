@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    std::string filePath = "~/dev/web-client/index.html";
+    std::string filePath = "path to your .html file";
     
     std::string command = "xdg-open " + filePath;
     
