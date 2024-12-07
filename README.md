@@ -33,7 +33,7 @@ A simple program on C++ for working with website development
   make
   ```
 
-* Step 5, start project
+* Step 5, open project
   ```
   ./client
   ```
