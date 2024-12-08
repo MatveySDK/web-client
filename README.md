@@ -3,9 +3,6 @@ Web Client is a program that opens your .html project in your browser
 
 A simple program on C++ for working with website development
 
-## Example
-[]()
-
 ## Installation (Linux, Debian-Based)
 
 * Step 1, Install G++ compiler
