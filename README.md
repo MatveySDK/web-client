@@ -1,19 +1,34 @@
 # Web-Client
 Web Client is a program that opens your .html project in your browser
 
-A simple program for working with website development
+A simple program on C++ for working with website development
 
->> For someone it may be an analogue of a live server without having a VS Code
+## Installation (Linux, Debian-Based)
 
-## Example
-[]()
+* Step 1, Install G++ compiler
+  ```
+  sudo apt install g++
+  ```
 
-## Installation (Linux)
+* Step 2, Install GNU/Make
+  ```
+  sudo apt install make
+  ```
 
-* Step 1. install gcc compiler:
-Ubuntu:
-```
-sudo apt -y install build-essential
-```
+* Step 3, Download library "libcurl4"
+  ```
+  sudo apt update
+  sudo apt install libcurl4-openssl-dev
+  ```
 
+* Step 4, You can compile the project using the following commands
+  ```
+  git clone https://github.com/MatveySDK/web-client
+  cd web-client
+  make
+  ```
 
+* Step 5, open project
+  ```
+  ./client
+  ```
