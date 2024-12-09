@@ -1,4 +1,4 @@
-TARGET = ./client
+TARGET = ./build/client
 
 SRC = \
 	  ./src/main.cpp
