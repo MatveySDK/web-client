@@ -30,5 +30,6 @@ A simple program on C++ for working with website development
 
 * Step 5, open project
   ```
+  cd build
   ./client
   ```
